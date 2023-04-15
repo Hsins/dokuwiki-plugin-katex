@@ -1,0 +1,7 @@
+base   katex
+author H.-H. PENG (Hsins)
+email  hsinspeng@gmail.com
+date   2023-04-15
+name   KaTeX
+desc   Parsing TeX expressions and rendering them into math/chemical equations with KaTeX and mhchem.
+url    https://www.dokuwiki.org/plugin:katex
